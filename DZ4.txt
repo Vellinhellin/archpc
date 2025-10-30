@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 n(nA AND B) nOR nn(B OR A) = (nnA OR nB) AND (B OR A) = 
+=======
+n(nA AND B) nOR nn(B OR A) = (nnA OR nB) AND (B OR A) = 
+>>>>>>> eefcaeccf628bd5e996f4a85e2cbe1467b7ec382
 = (A OR nB) OR (B OR A) = (A OR nB) AND B OR A = A AND B
