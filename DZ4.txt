@@ -1,0 +1,2 @@
+n(nA AND B) nOR nn(B OR A) = (nnA OR nB) AND (B OR A) = 
+= (A OR nB) OR (B OR A) = (A OR nB) AND B OR A = A AND B
