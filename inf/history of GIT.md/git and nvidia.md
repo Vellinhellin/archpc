@@ -1,7 +1,7 @@
 Линус Торвальдс о NVIDIA: "Самый худший партнер"
 
-![linus](/history%20of%20GIT.md/linus.jpg)
-![nvidia](/history%20of%20GIT.md/nvidia.jpeg)
+![linus](/history%20of%20GIT.md/img/linus.jpg)
+![nvidia](/history%20of%20GIT.md/img/nvidia.jpeg)
 
 🎙️ Легендарная цитата (2012 год)
 
