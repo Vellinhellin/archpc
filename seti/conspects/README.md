@@ -1,1 +1,1 @@
-[Конспект №1](/seti/conspects/conspect1.md)
+[Конспект №1](https://github.com/Vellinhellin/archpc/blob/main/seti/conspects/Conspect1.md)
