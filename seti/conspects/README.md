@@ -1,0 +1,1 @@
+[Конспект №1](/seti/conspects/conspect1.md)
