@@ -27,3 +27,5 @@
 - [Лабораторная работа №24](https://github.com/Vellinhellin/archpc/blob/main/pcsys/LabWorks/Lab24.md)
 
 - [Лабораторная работа №34](https://github.com/Vellinhellin/archpc/blob/main/pcsys/LabWorks/Lab34.md)
+
+- [Лабораторная работа №35](https://github.com/Vellinhellin/archpc/blob/main/pcsys/LabWorks/Lab35.md)
