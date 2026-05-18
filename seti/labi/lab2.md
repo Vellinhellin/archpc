@@ -33,3 +33,17 @@
 
 # Задание 5
 ![alt text](image-15.png)
+
+
+# Задание 6
+
+![alt text](../img/paang.png)
+
+
+# Задание 7
+
+![alt text](../img/pian.png)
+
+# задание 8
+
+![alt text](../img/paanp.png)

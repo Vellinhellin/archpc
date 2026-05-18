@@ -65,7 +65,7 @@ Ethernet и Fast Ethernet применяют один и тот же метод 
 - **MDIX** (MDI crossing) — разъем портов сетевого концентратора.
 
 ![](../conspects/image-1.png)
-![](../img/gfgg.jpg)
+![](../img/gfgg.jpg) 
 
 *Рис. 1.2*
 
