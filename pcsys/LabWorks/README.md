@@ -22,6 +22,12 @@
 
 - [Лабораторная работа №11 (docx)](https://github.com/Vellinhellin/archpc/blob/main/pcsys/LabWorks/Lab11.docx)
 
+- [Лабораторная работа №14 ](https://github.com/Vellinhellin/archpc/blob/main/pcsys/LabWorks/Lab14.md)
+
+- [Лабораторная работа №16 ](https://github.com/Vellinhellin/archpc/blob/main/pcsys/LabWorks/Lab16.md)
+
+- [Лабораторная работа №19 ](https://github.com/Vellinhellin/archpc/blob/main/pcsys/LabWorks/Lab19.md)
+
 - [Лабораторная работа №20](https://github.com/Vellinhellin/archpc/blob/main/pcsys/LabWorks/Lab20.md)
 
 - [Лабораторная работа №24](https://github.com/Vellinhellin/archpc/blob/main/pcsys/LabWorks/Lab24.md)
